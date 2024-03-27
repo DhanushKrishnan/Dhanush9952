@@ -3,23 +3,24 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%C02E60FF&lines=Welcome+to+my+profile+!+⭐;Have+a+nice+day!!!;Happy+Coding+...)](https://git.io/typing-svg)
 
 <b>I am Dhanush </b> <br>
-Currently not contributing anything.<br>
+I'm proficient in Java programming, with a deep understanding of the language's complexities. I have also contributed my expertise to the online world by writing numerous articles on various topics. My articles have been featured on multiple reputable websites. If my code has helped you, consider sponsoring me. Thank you!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dhanush9952&label=Profile%20views&color=0e75b6&style=flat" alt="Dhanush9952" /> </p>
 ## Tech Stack :computer: (My Skills)
 <table>
 <tr>
     <td align='center'>
-        <a href="https://angular.io/">
+        <a href="https://www.java.com/en/">
+        <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg">
+        </a>
+    </td>
+    <td align='center'>
+                <a href="https://angular.io/">
         <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg">
         </a>
     </td>
     <td align='center'>
-        <a href="https://dotnet.microsoft.com/en-us/apps/aspnet">
+                <a href="https://dotnet.microsoft.com/en-us/apps/aspnet">
         <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg">
-         </a>
-    </td>
-    <td align='center'>
-        <a href="https://www.typescriptlang.org/">
-        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
          </a>
     </td>
     <td align='center'>
@@ -45,9 +46,9 @@ Currently not contributing anything.<br>
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
     </td>
     <td align='center'>
-    <a href="https://dev.to/">
-    <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg">
-    </a>
+        <a href="https://www.typescriptlang.org/">
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+         </a>
     </td>
 </tr>
  </table>
@@ -56,38 +57,38 @@ Currently not contributing anything.<br>
 </a>
 <br>
 <b>Skills :</b>
-<i>DotNet Core, Angular, TypeScript, C#, ASP.Net, API, SQL, HTML, CSS, Bootstrap, Blender,...</i>
+<i>Java, DotNet Core, Angular, TypeScript, C#, ASP.Net, API, SQL, HTML, CSS, Bootstrap, ...</i>
 
-I'm good at programming, problem solving, and creative thinking.:bulb:,:trumpet:,:baseball:,:ice_skate:
+I'm good at programming, problem solving, and thinking.:bulb:,:trumpet:,:baseball:,:ice_skate:
 
 ## 📊 GitHub Stats
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dhanush9952&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=issues" alt="Dhanush9952's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush9952&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhan-profile&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=issues" alt="Dhanush's GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhan-profile&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
-Follow me on social media, :rainbow_flag:
+Coding Platforms and developer blogs. 👇 Click on the **icons** below to visit my profile.
 
-<a href="https://twitter.com/Dhanushkrish4">
-<img src="https://img.icons8.com/fluency/96/000000/twitter.png"/>
-</a>
-
-<a href="https://www.linkedin.com/in/dhanush-krishnan-294430104/">
-<img src="https://img.icons8.com/color/96/000000/linkedin.png"/>
-</a>
-
-<a href="https://github.com/Dhanush9952">
-<img src="https://img.icons8.com/color-glass/96/000000/github-2.png"/>
-</a>
-
-<a href ="https://www.quora.com/profile/Dhanush-Krishnan-11">
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-quora-is-a-place-to-gain-and-share-knowledge-logo-color-tal-revivo.png"/>
- </a>
- 
- <a href ="https://dev.to/dhanush9952">
- <img src="https://img.icons8.com/ios-filled/100/000000/devpost.png"/>
- </a>
- <hr>
+<a href="https://www.hackerrank.com/dhanushkrish45" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhanushkrish45" height="30" width="40" /></a>
+&nbsp;
+<a href="https://dev.to/dhanush9952" target="_blank"><img align="center" src="https://cdn-icons-png.freepik.com/512/5969/5969113.png" alt="dhanush9952" height="40" width="40" /></a>
+&nbsp;
+<a href="https://leetcode.com/Eagles_Warrior/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Eagles_Warrior" height="40" width="40" /></a>
+&nbsp;
+<a href="https://medium.com/@storybydhanush" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="@storybydhanush" height="30" width="30" /></a>
+&nbsp;&nbsp;
+<a href="https://unstop.com/u/dhanushprofile" target="_blank"><img align="center" src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/branding-guidelines/icon/unstop-icon-800x800.png" alt="dhanushprofile" height="30" width="30" /></a>
+&nbsp;&nbsp;
+<a href="https://www.hackerearth.com/@dhanushkrish45" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="dhanushprofile" height="30" width="30" /></a>
+&nbsp;&nbsp;
+<a href="https://dhanushprofile.hashnode.dev/" target="_blank"><img align="center" src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="dhanushprofile" height="30" width="30" /></a>
+&nbsp;&nbsp;
+<a href="https://www.codingninjas.com/studio/profile/b1ebb673-a4f2-4bb1-8bb4-e39a1f41242e" target="_blank"><img align="center" src="https://www.codingninjas.com/landing/wp-content/uploads/2022/11/CN-DP.jpg" alt="dhanushprofile" height="30" width="30" /></a>
+&nbsp;
+<a href="https://stackoverflow.com/users/16487734/dhanush?tab=profile" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="16487734" height="40" width="40" /></a>
+&nbsp;
+<hr>
  ## Contribution Graph 📊
 
-<img
-     src="https://activity-graph.herokuapp.com/graph?username=Dhanush9952&theme=chartreuse-dark"
-     />
+[![Dhanush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhan-profile&theme=high-contrast)](https://github.com/dhan-profile/github-readme-activity-graph)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dhan-profile&theme=radical&no-frame=false&no-bg=true&margin-w=4)
